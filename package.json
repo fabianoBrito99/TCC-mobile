@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mobiletcc",
+=======
+  "name": "bibliotecatccmobile",
+>>>>>>> 8bd65a278e718165c28dca3d53894f60ea0b3052
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
