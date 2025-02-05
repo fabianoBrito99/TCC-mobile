@@ -110,4 +110,8 @@ function login(request, response) {
 }
 
 
+<<<<<<< HEAD
 module.exports = { list, show, login, create};
+=======
+module.exports = { list, show, login, create, atualizarTipoUsuario,};
+>>>>>>> 102d2bce8294e42845763971409208cf5b3cd454

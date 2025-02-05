@@ -209,5 +209,9 @@ async function create(request, response) {
 module.exports = {
   show,
   list,
+<<<<<<< HEAD
   create
+=======
+  create,
+>>>>>>> 102d2bce8294e42845763971409208cf5b3cd454
 };

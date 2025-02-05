@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
+    "name": "mobileTCC",
+    "slug": "mobileTCC",
+=======
     "name": "bibliotecaTccMobile",
     "slug": "bibliotecaTccMobile",
+>>>>>>> 8bd65a278e718165c28dca3d53894f60ea0b3052
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
